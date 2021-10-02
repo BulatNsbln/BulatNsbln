@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+[Профиль на хабр](https://career.habr.com/bulatnsbln)
+
 <!--
 **BulatNsbln/BulatNsbln** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
